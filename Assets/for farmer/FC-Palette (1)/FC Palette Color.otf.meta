@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6c54e7d5b9a376742844b2aa55bba019
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FC Palette Color
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c561424e53cb7804485932b15e0f2b0c, type: 3}
+  - {fileID: 12800000, guid: 03dc2b808f9d7ca428466196908a73f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
